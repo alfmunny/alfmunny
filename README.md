@@ -2,7 +2,7 @@
 
 I am a full stack programmer. [Ruby on Rails, Java, Go, Python, C++] + [Vue.js, React.js]
 
-- Daily Programming: Ruby and Python
+- Daily Programming: Ruby, Python and C++
 
 - All [my LeetCode solutions](https://github.com/alfmunny/leetcode), keep updating.
 
