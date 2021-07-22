@@ -1,6 +1,6 @@
 <h2 align="center">Hey, this is Chen.</h2>
 
-I am a full stack programmer. [Ruby on Rails, Java, Go, Python, C++] + [Vue.js, React.js]
+I am a full stack programmer. [C++, Ruby on Rails, Python, Java, Go] + [Vue.js, React.js]
 
 - Daily Programming: C++, Ruby and Python
 
